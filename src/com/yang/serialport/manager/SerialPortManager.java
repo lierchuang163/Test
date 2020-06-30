@@ -176,7 +176,7 @@ public class SerialPortManager {
 			e.printStackTrace();
 		}
 	}
-
+1111
 	/**
 	 * 串口监听
 	 */
